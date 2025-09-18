@@ -4,9 +4,9 @@ Date: 18.09.2025
 */
 body {
   font-family: Arial, sans-serif;
-  background-color: red;
+  background-color: blue;
 }
 h1 {
-  color: blue;
-  font-size: 20px;
+  color: red;
+  font-size: 24px;
 }
