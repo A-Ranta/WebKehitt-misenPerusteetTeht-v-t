@@ -1,0 +1,32 @@
+/*
+Author: Antti Ranta
+Date: 19.09.2025
+*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: gray;
+}
+h1 {
+  color: darkblue;
+  font-size: 30px;
+}
+
+p {
+    color:darkblue;
+    max-width: 700px;
+}
+
+ul li {
+    list-style-type: circle;
+    color: darkgreen;
+}
+
+ol li {
+    list-style-type: katakana;
+    color: darkred
+}
+
+a {
+    color: yellowgreen;
+    background-color: black;
+}
