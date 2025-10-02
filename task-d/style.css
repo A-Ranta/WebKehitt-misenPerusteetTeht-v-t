@@ -4,9 +4,62 @@ Date: 18.09.2025
 */
 body {
   font-family: Arial, sans-serif;
-  background-color: blue;
+  background-color: gray;
+  text-align: center;
 }
-h1 {
-  color: red;
+
+h1, h2 { /*ryhmä */
+  color: black;
+}
+
+h3 {
+  color: black;
+  font-size: 30px;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+}
+
+.div1 { /* luokka1 */
+  background-color: rgb(190, 17, 17);
+  font-size: 30px;
+  font-family: cursive;
+  
+}
+
+.div2 { /* luokka2 */
+  background-color: rgb(32, 32, 177);
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+ul li { /* lista item */
   font-size: 24px;
+  list-style: square;
+  margin: 10px;
+  list-style-position: inside;
+}
+
+img { /* kuva */
+  display: block;
+  margin: auto;
+}
+
+#id-testi { /*id */
+  color: aqua;
+  font-size: 30px;
+}
+
+a[target="_blank"] { /*linkki target */
+  background-color: white;
+  font-size: 30px;
+}
+
+img[alt="W3Schools kuva"] { /* kuva [alt] */
+  border: 1px yellow;
+  border-radius: 50%;
+  box-shadow: black
 }
