@@ -39,7 +39,7 @@ p {
 }
 
 
-ul li { /* lista item */
+section ul li { /* lista item */
   font-size: 24px;
   list-style: square;
   margin: 10px;
