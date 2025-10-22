@@ -114,14 +114,17 @@ body {
 /* Column widths:
    - First column (Course) wider
    - Other columns share remaining space
+   muuta nämä
 */
 .table thead th:nth-child(1),
 .table tbody td:nth-child(1) {
-  width: 40%;
+  /*width: 40%;*/
+  width: 90%;
 }
 .table thead th:nth-child(n+2),
 .table tbody td:nth-child(n+2) {
-  width: 15%;
+  /*width: 15%;*/
+  width: 25%;
 }
 
 /* Center the day columns (Monâ€“Thu) */
