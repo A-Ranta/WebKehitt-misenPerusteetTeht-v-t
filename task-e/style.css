@@ -114,7 +114,7 @@ body {
 /* Column widths:
    - First column (Course) wider
    - Other columns share remaining space
-   muuta nämä
+   muuta nämä?
 */
 .table thead th:nth-child(1),
 .table tbody td:nth-child(1) {
